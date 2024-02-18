@@ -1,7 +1,15 @@
+.navbar, .navbar a{
+    background-color: aqua;
+    color: white;
+}
 body{
     background-color: black;
 }
 
 #QuienesSomos{
     color: white;
+}
+
+#Destacados, #Destacados .card{
+    color:white;
 }
