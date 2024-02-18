@@ -19,6 +19,7 @@ body{
 }
 
 footer{
+   
     margin-top: 20px;
     background-color: aqua;
     color: white;
@@ -27,4 +28,9 @@ footer{
 
 footer a{
     color: white;
+}
+
+footer .container-fluid{
+    display: inline-flex;
+    text-align: center;
 }
