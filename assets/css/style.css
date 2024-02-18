@@ -34,3 +34,7 @@ footer .container-fluid{
     display: inline-flex;
     text-align: center;
 }
+
+section{
+    padding: 10px;
+}
